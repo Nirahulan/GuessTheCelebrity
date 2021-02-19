@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
 String result;
-    //Download Webcontent(HTML)
+    //Download Web Content(HTML)
     public class DownloadTask extends AsyncTask<String, Void, String>{
 
         @Override
