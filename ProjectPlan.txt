@@ -1,13 +1,14 @@
-1) Download Image content 
-2) Download Webcontent(HTML)
+1) Download Image content (complete)
+2) Download Webcontent(HTML) (complete)
 3) Use regex to get link to photo
 3a) Regex to get actor name
-4) Setup button functionality
+4)Setup UI
+5) Setup button functionality
 
 
 *******
 *Notes*
 *******
--Add permissions
--link needed for project: https://www.imdb.com/list/ls052283250/
+-Add permissions (Complete)
+-link needed for project: https://www.imdb.com/list/ls052283250/ (complete)
 -set up var to house image link to place into imageview
